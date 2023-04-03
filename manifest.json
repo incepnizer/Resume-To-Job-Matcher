@@ -1,0 +1,13 @@
+{
+    "name" : "Resume to Job Matcher",
+    "version" : "1.0",
+    "description" : "Reveals how similar a users resume is to the job they are applying for and gives suggestions for resume changes",
+    "permissions" : ["storage", "tabs"],
+    "manifest_version" : 3,
+    "author" : "Aksh Tyagi",
+    "action" : {
+        "default_icon" : "RJM.png",
+        "default_popup" : "index.html",
+        "default_title" : "Resume to Job Matcher"
+    }
+}
