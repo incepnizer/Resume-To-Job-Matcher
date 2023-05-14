@@ -30,6 +30,7 @@ Twinword             |  RapidAPI
 * Implement feature that tells user potential things to add to resume based on observed differences.
 * Continue to improve UI.
 * Look into upward scaleability.
+* Fix issue with special characters - certain special characters (#, \*, etc.) cannot be read by the API and therefore do not generate a response.
 
 ## Built in Association With:
 ![Autom8](https://uploads-ssl.webflow.com/63db3ae98545e1bebb971464/63dc86fabd5fd124a5e0c95b_Autom8.svg)
