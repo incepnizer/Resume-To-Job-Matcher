@@ -22,9 +22,8 @@ Twinword             |  RapidAPI
 * Anything above 50 indicates significant overlap.
 * The actual number (between 0 and 100) is also displayed, so the user can make their own scale if they want to.  
   
-
 | 0 - 10 | 10 - 50 | 50 - 100 |
-| ---------------- | ---------------- | ---------------- |
+| :----------------: | :----------------: | :----------------: |
 | Bad   | Acceptable  | Good   |
 
 ## Next Steps
