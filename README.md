@@ -21,3 +21,8 @@ Twinword             |  RapidAPI
 * A number between 10 and 50 indicates some overlap.
 * Anything above 50 indicates significant overlap.
 * The actual number (between 0 and 100) is also displayed, so the user can make their own scale if they want to.
+
+## Next Steps
+* Implement feature that tells user potential things to add to resume based on observed differences.
+* Continue to improve UI.
+* Look into upward scaleability.
