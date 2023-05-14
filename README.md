@@ -1,6 +1,10 @@
 # Resume-To-Job-Matcher  
 ## Description  
 A Google Chrome Extension that compares job page descriptions and informs the user how similar the job posting's requirements are to his or her resume. Resume-To-Job-Matcher saves the user's time because they immediately know whether to apply or to change their resume before applying. It also increases the user's chances of getting the interview as they are less likely to blindly apply when using this extension.
+
+Twinword             |  RapidAPI
+:-------------------------:|:-------------------------:
+![Twinword](https://speechify.com/wp-content/uploads/2022/10/twinword-ideas.png)  |  ![RapidAPI](https://rapidapi.com/static-assets/default/favicon-8e7d522e-653f-4edd-ac27-3f6ed950e45d.png)
   
 ## Details  
 * Written in Javascript, HTML, and CSS.
