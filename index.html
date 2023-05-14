@@ -2,24 +2,27 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Job Resume Matcher</title>
     <script src="script.js"></script>
-    <script src="background.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <label for="workexp">Enter work experience, personal projects, and technical skills</label>
-    <br>
-    <textarea id="exp" name="exp" rows="7" cols="60"></textarea>
-    <br>
-    <br>
-    <br>
-    <label for="link">Enter link to scan job description from:</label>
-    <input id="weblink" type="text" />
-    <br>
-    <br>
-    <br>
-    <button id="submit">Scan Page</button>
+    <div class="container">
+        <h1>Job Resume Matcher</h1>
+        <form id="myForm">
+            <label for="workexp">Enter work experience, personal projects, and technical skills</label>
+            <br>
+            <textarea id="exp" name="exp" rows="7" cols="60"></textarea>
+            <br>
+            <label for="jobdescription">Enter job description text</label>
+            <br>
+            <textarea id="descp" name="descp" rows="7" cols="60"></textarea>
+            <br>
+            <button id="submit">Next</button>
+        </form>
+        <br>
+        <div id="result"></div>
+    </div>
 </body>
 </html>
