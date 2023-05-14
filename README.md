@@ -30,3 +30,7 @@ Twinword             |  RapidAPI
 * Implement feature that tells user potential things to add to resume based on observed differences.
 * Continue to improve UI.
 * Look into upward scaleability.
+
+## Built in Association With:
+![Autom8](https://uploads-ssl.webflow.com/63db3ae98545e1bebb971464/63dc86fabd5fd124a5e0c95b_Autom8.svg)
+* Personal finance startup; vist them [here](https://www.getautom8.com/)
